@@ -1,5 +1,6 @@
-# Assignment 1: Socket & Multithreaded Programming
 
+# Assignment 1: Socket & Multithreaded Programming
+![enter image description here](https://us.123rf.com/450wm/bignai/bignai1807/bignai180700125/104198009-hand-plugs-internet-cable-into-wifi-extender-device-is-in-electrical-socket-on-the-wall.jpg)
 ## Socket Programming
 
 As discussed in lecture, socket programming is the standard way to write
@@ -78,20 +79,11 @@ You should compare the two files using `diff in.txt out.txt`.
 
 ### Submission and grading
 
-Submit the assignment by uploading your modified client and server files to CS
-TigerFile here: [Programming Assignment 1](https://tigerfile.cs.princeton.edu/COS461_F2021/Programming_Assignment_1).
+Submit the assignment by uploading your modified client and server files to **Canvas**.
 
-We will grade your assignments by running the `test_client_server.sh` script
-and additional tests with large messages, multiple simultaneous clients, etc.
+We will grade your assignments by running it on the CS lab machine.
 Double check the specifications above and perform your own tests before
 submitting.
 
 Code that does not compile is graded harshly; if you want partial credits,
 *make sure your file compiles!*
-
-Remember that, in addition to your C client/server pair, you should submit
-another client/server in **either** Python or Go, but not both! If you submit
-both pairs we will only grade your Python files (arbitrary choice). Do not
-expect us to grade both and select the greater of the two grades. Furthermore,
-you may NOT submit just a client in Python and a server in Go, or the other way
-around. Your second client/server pair must be in the same language.
