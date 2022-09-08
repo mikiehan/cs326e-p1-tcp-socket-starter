@@ -51,7 +51,7 @@ The documentation for Python socket programming is located here:
 https://docs.python.org/2/library/socket.html. The first few paragraphs at the
 top, the [section on socket objects](https://docs.python.org/2/library/socket.html#socket-objects) and the [first example](https://docs.python.org/2/library/socket.html#example) is particularly relevant. 
 The documentation for Python multithreaded programming is located here: 
-[what is a thread](https://www.youtube.com/watch?v=YB5I2w-8YQ4), [second example](https://www.tutorialspoint.com/python/python_multithreading.htm) on how to use it.
+[what is a thread](https://www.youtube.com/watch?v=YB5I2w-8YQ4), [second example](https://www.tutorialspoint.com/python3/python_multithreading.htm) on how to use it.
 
 The files `client-python.py` and `server-python.py` contain the scaffolding
 code. You will need to add socket and multithreaded programming code. 
@@ -74,7 +74,9 @@ server IP and a high server port number between 10000 and 60000. If you get the 
 kill the process that occupies the port. And, if you get a permissions error, 
 run `chmod a+wrx server-python.py client-python.py` to give the script execute privileges.
 
-You should compare the two files using `diff in.txt out.txt`.
+You should compare the two files using `diff in.txt out.txt`. If nothing returns that means 
+your output files matches your input file. In addition, you can use the provided Robots_of_the_World!_Arise!.txt
+to test your program.
 
 
 ### Submission and grading
