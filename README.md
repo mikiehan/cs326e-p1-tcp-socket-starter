@@ -75,7 +75,7 @@ kill the process that occupies the port. And, if you get a permissions error,
 run `chmod a+wrx server-python.py client-python.py` to give the script execute privileges.
 
 You should compare the two files using `diff in.txt out.txt`. If nothing returns that means 
-your output files matches your input file. In addition, you can use the provided Robots_of_the_World!_Arise!.txt
+your output file matches your input file. In addition, you can use the provided Robots_of_the_World!_Arise!.txt
 to test your program.
 
 
