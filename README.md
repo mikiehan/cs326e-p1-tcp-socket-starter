@@ -10,7 +10,7 @@ any specific operating system or programming language. This allows programmers
 to use socket to write correct network programs in many contexts.
 
 This part of the assignment will give you experience with basic socket
-programming. You will write 2 pairs of TCP client and server programs for
+programming. You will write a pair of TCP client and server programs for
 sending and receiving text messages over the Internet.
 
 The client and server programs in both languages should meet the following
