@@ -48,7 +48,7 @@ to make sure your implementation fulfills them:
 ### Python
 
 The documentation for Python socket programming is located here:
-https://docs.python.org/2/library/socket.html. The first few paragraphs at the
+https://docs.python.org/3/library/socket.html. The first few paragraphs at the
 top, the [section on socket objects](https://docs.python.org/3/library/socket.html#socket-objects) and the [first example](https://docs.python.org/3/library/socket.html#example) is particularly relevant. 
 The documentation for Python multithreaded programming is located here: 
 [what is a thread](https://www.youtube.com/watch?v=YB5I2w-8YQ4), [second example](https://www.tutorialspoint.com/python3/python_multithreading.htm) on how to use it.
